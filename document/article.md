@@ -1,0 +1,21 @@
+## Article
+
+- [GoogleスタイルのPython Docstringの入門](https://qiita.com/11ohina017/items/118b3b42b612e527dc1d)
+- [Kubernetesの主要コンポーネントを図解したい](https://zenn.dev/012xx/articles/6581ba84bea808)
+- [Lambda Web Adapter でウェブアプリを (ほぼ) そのままサーバーレス化する](https://aws.amazon.com/jp/builders-flash/202301/lambda-web-adapter/)
+- [NixOS を使い始める](https://blog.anqou.net/2024/12/start-nixos/)
+- [Production-ready Python Docker Containers with uv](https://hynek.me/articles/docker-uv/)
+- [RealWorld 業務 Rust](https://qiita.com/legokichi/items/4e85ec1e74f4e754fb94)
+- [Rustプロジェクトのビルド高速化に関するベストプラクティス（ローカル環境編）](https://zenn.dev/fairydevices/articles/59cd718341da58)
+- [【翻訳】テスト駆動開発の定義](https://t-wada.hatenablog.jp/entry/canon-tdd-by-kent-beck)
+- [データの鮮度を dbt freshness でチェックする](https://zenn.dev/mercy34/articles/1fa551165d8ac1)
+- [データの鮮度を dbt freshness でチェックする](https://zenn.dev/yuichi_dev/articles/b5b2668b8a0057)
+- [バッチ処理のSLOをどう設計するか](https://speakerdeck.com/rynsuke/batutichu-li-noslowodoushe-ji-suruka)
+- [ベイジアンA/Bにおけるサンプルサイズを見積もる](https://www.ai-shift.co.jp/techblog/4710)
+- [ミニ k8s ハンズオン](https://github.com/motoki317/mini-k8s-hands-on)
+- [代数的データ型と初等代数学](https://blog.ryota-ka.me/posts/2018/07/09/algebraic-data-types-and-elementary-algebra)
+- [君は次に"来る"SNS arpchatを知っているか？](https://zenn.dev/hurumy/articles/55df1683f32f03)
+- [攻撃者が採用した「.htaccess」を改ざんして、任意の拡張子でPHPを実行する方法](https://zenn.dev/the_art_of_nerd/articles/5dc4cbd33d94b8)
+- [月刊「Rustは低レイヤーで使ってもunsafeだらけになるから意味がない」廃刊のお知らせ](https://zenn.dev/garasubo/articles/59b29c6cdd3f16)
+- [楕円曲線暗号方式の強度について](https://dwango.github.io/articles/2024-02_security_level/)
+
